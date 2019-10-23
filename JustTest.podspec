@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/kunkunGit/JustTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'hellolikunbo@163.com' => 'kun' }
+  s.author           = { 'hellolikunbo@163.com' => 'heart alone' }
   s.source           = { :git => 'https://github.com/kunkunGit/JustTest.git', :tag => s.version.to_s }
       
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
