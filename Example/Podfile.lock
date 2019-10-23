@@ -1,0 +1,16 @@
+PODS:
+  - JustTest (0.1.0)
+
+DEPENDENCIES:
+  - JustTest (from `../`)
+
+EXTERNAL SOURCES:
+  JustTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JustTest: 8aedc0aa491c7c9fdfe6f91968d97fb21e7a9882
+
+PODFILE CHECKSUM: f9727e92822d24704239d15a9fd4c201edb30815
+
+COCOAPODS: 1.5.3
